@@ -42,14 +42,6 @@ Estou iniciando meu portfólio com projetos desenvolvidos a partir de tutoriais 
 
 ---
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=norival-lab&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=norival-lab&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=norival-lab&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
----
-
 ## ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
