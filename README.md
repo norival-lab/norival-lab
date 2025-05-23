@@ -83,7 +83,7 @@ Sou Norival Rodrigues, estudante de Sistemas para Internet na Gran Faculdade e e
   <img
     align="left"
     alt="GitHub Stats"
-    height="180"
+    height="100"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=norival-lab&show_icons=true&theme=vue-dark&include_all_commits=true"
   />
@@ -91,7 +91,7 @@ Sou Norival Rodrigues, estudante de Sistemas para Internet na Gran Faculdade e e
 <img
       align="left"
       alt="GitHub Stats"
-      height="180"
+      height="100"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=norival-lab&theme=vue-dark&layout=compact&langs_count=9"
   />
 
