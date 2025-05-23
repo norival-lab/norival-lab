@@ -1,54 +1,98 @@
-# 👋 Olá, eu sou o Norival Rodrigues!
+# 👩🏻‍💻 Norival Rodrigues
 
-🎓 Estudante do 2º semestre de **Sistemas para Internet** e em constante evolução como desenvolvedor.  
-💻 Atualmente focado em **desenvolvimento backend**, com uma base sólida em HTML e CSS, e me aprofundando em **JavaScript** com **Node.js** e **Express**.  
-🚀 Buscando minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos e crescer profissionalmente.
+**`Desenvolvedor FullStack in progress`**
 
----
+Sou Norival Rodrigues, estudante de Sistemas para Internet na Gran Faculdade e entusiasta de tecnologia desde cedo. Natural de Indaiatuba/SP, encontrei nos projetos pessoais uma forma de consolidar o que estudo e evoluir como desenvolvedor. Costumo documentar esse processo no GitHub. Também exploro o uso de inteligência artificial como ferramenta estratégica para aprendizado e desenvolvimento.
 
-## 📌 O que estou aprendendo:
+<p align="left">
+    <a href="https://facebook.com/100084049506685">
+        <img
+            alt="facebook account"
+            title="facebook"
+            src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"
+        />
+    </a>
+    <a href="https://instagram.com/netoreader">
+        <img
+            alt="instagram"
+            title="instagram"
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"
+        />
+    </a>
+    <a href="https://linkedin.com/in/norival-rodrigues">
+        <img
+            alt="linkedin"
+            title="linkedin"
+            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
+        />
+    </a>
 
-- 📚 Fundamentos do backend com **Node.js + Express**
-- 🧩 Estruturação de projetos e boas práticas de código
-- 🌐 Integração com APIs e manipulação de dados
-- 🔧 Conceitos essenciais de HTML5, CSS3 e JavaScript
-- 📦 Gerenciamento de dependências com **npm**
-
----
-
-## 🧪 Projetos e portfólio
-
-Estou iniciando meu portfólio com projetos desenvolvidos a partir de tutoriais e desafios práticos, como o [Conversor de Moedas](https://github.com/norival-lab/conversor-de-moedas) que amplia funcionalidades básicas e demonstra minha evolução no uso de JavaScript.
-
-📌 **Objetivo:** publicar e evoluir meus repositórios para demonstrar meus aprendizados de forma prática.
-
----
-
-## 🌐 Onde me encontrar:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100084049506685) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/netoreader) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/norival-rodrigues)
-
----
-
-## 💻 Tecnologias em uso:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=plastic&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic)
+</p>
 
 ---
 
-## ✍️ Dev Quote
+### 🤖 Linguagens e Tecnologias
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 
----
+<br/>
+<br/>
 
-[![](https://visitcount.itsvg.in/api?id=norival-lab&icon=5&color=3)](https://visitcount.itsvg.in)
+### 📊 Estatísticas
 
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=norival-lab&show_icons=true&theme=vue-dark&include_all_commits=true"
+  />
 
+<img
+      align="left"
+      alt="GitHub Stats"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=norival-lab&theme=vue-dark&layout=compact&langs_count=9"
+  />
 
+</p>
