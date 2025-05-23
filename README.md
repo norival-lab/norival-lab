@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Norival Rodrigues
 
-**`Desenvolvedor FullStack in progress`**
+**`Desenvolvedor FullStack em progresso`**
 
 Sou Norival Rodrigues, estudante de Sistemas para Internet na Gran Faculdade e entusiasta de tecnologia desde cedo. Natural de Indaiatuba/SP, encontrei nos projetos pessoais uma forma de consolidar o que estudo e evoluir como desenvolvedor. Costumo documentar esse processo no GitHub. Também exploro o uso de inteligência artificial como ferramenta estratégica para aprendizado e desenvolvimento.
 
